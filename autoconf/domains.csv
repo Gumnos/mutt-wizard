@@ -3,7 +3,6 @@ ADDRESS,IMAP,imap port,SMTP,smtp port
 8chan.co,mail.cock.li,993,mail.cock.li,587
 aaathats3as.com,mail.cock.li,993,mail.cock.li,587
 accountant.com,imap.mail.com,995,smtp.mail.com,587
-accountant.com,imap.mail.com,995,smtp.mail.com,587
 activist.com,imap.mail.com,995,smtp.mail.com,587
 adexec.com,imap.mail.com,995,smtp.mail.com,587
 airmail.cc,mail.cock.li,993,mail.cock.li,587
@@ -16,7 +15,6 @@ appraiser.net,imap.mail.com,995,smtp.mail.com,587
 archaeologist.com,imap.mail.com,995,smtp.mail.com,587
 arcticmail.com,imap.mail.com,995,smtp.mail.com,587
 artlover.com,imap.mail.com,995,smtp.mail.com,587
-asia.com,imap.mail.com,995,smtp.mail.com,587
 asia.com,imap.mail.com,995,smtp.mail.com,587
 auctioneer.net,imap.mail.com,995,smtp.mail.com,587
 bartender.net,imap.mail.com,995,smtp.mail.com,587
@@ -41,8 +39,6 @@ columnist.com,imap.mail.com,995,smtp.mail.com,587
 comic.com,imap.mail.com,995,smtp.mail.com,587
 computer4u.com,imap.mail.com,995,smtp.mail.com,587
 consultant.com,imap.mail.com,995,smtp.mail.com,587
-consultant.com,imap.mail.com,995,smtp.mail.com,587
-contractor.net,imap.mail.com,995,smtp.mail.com,587
 contractor.net,imap.mail.com,995,smtp.mail.com,587
 coolsite.net,imap.mail.com,995,smtp.mail.com,587
 counsellor.com,imap.mail.com,995,smtp.mail.com,587
@@ -112,7 +108,6 @@ writeme.com,imap.mail.com,995,smtp.mail.com,587
 ya.ru,imap.yandex.com,993,smtp.yandex.com,465
 yahoo.com,imap.mail.yahoo.com,993,smtp.mail.yahoo.com,587
 yandex.by,imap.yandex.com,993,smtp.yandex.com,465
-yandex.com,imap.yandex.com,993,smtp.yandex.com,465
 yandex.com,imap.yandex.com,993,smtp.yandex.com,465
 yandex.kz,imap.yandex.com,993,smtp.yandex.com,465
 yandex.net,imap.yandex.com,993,smtp.yandex.com,465
